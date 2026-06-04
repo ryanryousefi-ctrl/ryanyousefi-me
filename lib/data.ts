@@ -147,6 +147,7 @@ export const timeline: TimelineItem[] = [
     company: "Pro Football Sports Network",
     description:
       "Led editorial operations for a dedicated professional football media outlet, overseeing coverage, shaping editorial voice, and ensuring the standard of reporting that serious football fans expect — from breaking news to in-depth analysis across the NFL landscape.",
+    authorPage: "https://www.profootballnetwork.com/",
   },
   {
     period: "2021 — 2022",
