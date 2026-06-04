@@ -139,6 +139,13 @@ export const timeline: TimelineItem[] = [
       "Led content strategy and communications for a Web3 gaming company and its flagship product, Photo Finish LIVE — a blockchain-based horse racing simulation with a passionate global community. Built editorial voice from the ground up and managed communications across product launches, community events, and partnerships.",
   },
   {
+    period: "2025 — 2026",
+    title: "Editor",
+    company: "Pro Football Sports Network",
+    description:
+      "Led editorial operations for a dedicated professional football media outlet, overseeing coverage, shaping editorial voice, and ensuring the standard of reporting that serious football fans expect — from breaking news to in-depth analysis across the NFL landscape.",
+  },
+  {
     period: "2021 — 2022",
     title: "Director of Content",
     company: "Virtual Human Studios",
@@ -151,13 +158,6 @@ export const timeline: TimelineItem[] = [
     company: "Talk Media",
     description:
       "Written thousands of news stories spanning sports, crime, food, culture, and breaking news across Talk Media's network of publications — bringing the same speed, accuracy, and storytelling instincts developed across years of alt-weekly journalism to a high-volume, high-stakes news environment.",
-  },
-  {
-    period: "2019 — 2022",
-    title: "Senior Editor & Writer",
-    company: "Voice Media Group",
-    description:
-      "Served as a senior editor across Voice Media Group's network of alt-weekly publications, overseeing editorial production and contributing long-form journalism, features, and cultural criticism. Managed editorial teams and set standards for coverage across multiple markets.",
   },
   {
     period: "2013 — Present",
