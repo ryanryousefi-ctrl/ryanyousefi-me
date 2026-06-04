@@ -19,7 +19,6 @@ export default function Footer() {
               { href: "/about", label: "About" },
               { href: "/work", label: "Work" },
               { href: "/career", label: "Career" },
-              { href: "/speaking", label: "Speaking" },
               { href: "/writing", label: "Writing" },
               { href: "/contact", label: "Contact" },
             ].map(({ href, label }) => (

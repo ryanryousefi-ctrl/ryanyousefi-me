@@ -174,6 +174,13 @@ export const timeline: TimelineItem[] = [
       "Covered Phoenix's dining, entertainment, and local culture for the Southwest's premier alt-weekly. Developed a beat across food criticism, event coverage, and investigative local reporting.",
   },
   {
+    period: "2016 — 2018",
+    title: "On-Air Contributor",
+    company: "ESPN Radio — 790 The Ticket Miami",
+    description:
+      "Contributed sports commentary and analysis to ESPN Radio's 790 The Ticket, Miami's premier sports radio station. Brought the same depth and perspective developed through years of sports writing to a live broadcast format, covering local teams and national storylines for South Florida's most passionate sports audience.",
+  },
+  {
     period: "2014 — 2016",
     title: "Contributor",
     company: "UPROXX",
