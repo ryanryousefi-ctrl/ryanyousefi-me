@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 
 export const metadata: Metadata = {
   title: "About",
@@ -24,15 +25,13 @@ export default function About() {
         <aside className="md:col-span-3 order-2 md:order-1">
           <div className="sticky top-24 space-y-8">
             {/* Portrait placeholder */}
-            <div className="aspect-square bg-[--paper-warm] border border-[--rule] flex flex-col items-center justify-center">
-              <div className="w-16 h-16 rounded-full border-2 border-[--rule] flex items-center justify-center mb-3">
-                <span className="font-[family-name:var(--font-playfair)] text-2xl font-bold text-[--rule]">
-                  RY
-                </span>
-              </div>
-              <p className="font-[family-name:var(--font-inter)] text-[10px] tracking-wide text-[--rule] text-center px-4">
-                public/ryan-yousefi.jpg
-              </p>
+            <div className="aspect-square bg-[--paper-warm] border border-[--rule] relative overflow-hidden">
+              <Image
+                src="/ryan-yousefi.jpg"
+                alt="Ryan Yousefi"
+                fill
+                className="object-cover object-top"
+              />
             </div>
 
             <div className="rule-top-thin pt-6 space-y-4">

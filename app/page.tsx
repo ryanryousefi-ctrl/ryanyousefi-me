@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Image from "next/image";
 import Link from "next/link";
 import { publications, articles } from "@/lib/data";
 
@@ -51,20 +52,13 @@ export default function Home() {
           {/* Portrait */}
           <div className="md:col-span-5 animate-fade-in-delay-1">
             <div className="aspect-[3/4] bg-[--paper-warm] border border-[--rule] relative overflow-hidden">
-              {/* Placeholder — replace with actual LinkedIn photo at public/ryan-yousefi.jpg */}
-              <div className="absolute inset-0 flex flex-col items-center justify-center text-[--ink-faint]">
-                <div className="w-24 h-24 rounded-full border-2 border-[--rule] mb-4 flex items-center justify-center">
-                  <span className="font-[family-name:var(--font-playfair)] text-3xl font-bold text-[--rule]">
-                    RY
-                  </span>
-                </div>
-                <p className="font-[family-name:var(--font-inter)] text-xs tracking-wide text-[--rule]">
-                  Place headshot at
-                </p>
-                <p className="font-[family-name:var(--font-inter)] text-xs tracking-wide text-[--rule]">
-                  public/ryan-yousefi.jpg
-                </p>
-              </div>
+              <Image
+                src="/ryan-yousefi.jpg"
+                alt="Ryan Yousefi"
+                fill
+                className="object-cover object-top"
+                priority
+              />
             </div>
           </div>
         </div>
