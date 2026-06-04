@@ -136,43 +136,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Career snapshot */}
-      <section className="max-w-6xl mx-auto px-6 py-20">
-        <div className="grid md:grid-cols-3 gap-12 rule-top pt-6">
-          <div>
-            <p className="font-[family-name:var(--font-playfair)] text-5xl font-bold text-[--ink] mb-2">
-              10+
-            </p>
-            <p className="font-[family-name:var(--font-inter)] text-xs tracking-widest uppercase text-[--ink-faint]">
-              Years in Journalism & Media
-            </p>
-          </div>
-          <div>
-            <p className="font-[family-name:var(--font-playfair)] text-5xl font-bold text-[--ink] mb-2">
-              6+
-            </p>
-            <p className="font-[family-name:var(--font-inter)] text-xs tracking-widest uppercase text-[--ink-faint]">
-              Major Publications
-            </p>
-          </div>
-          <div>
-            <p className="font-[family-name:var(--font-playfair)] text-5xl font-bold text-[--ink] mb-2">
-              3
-            </p>
-            <p className="font-[family-name:var(--font-inter)] text-xs tracking-widest uppercase text-[--ink-faint]">
-              Industries: Media, Gaming, Web3
-            </p>
-          </div>
-        </div>
-        <div className="mt-12 text-center">
-          <Link
-            href="/career"
-            className="font-[family-name:var(--font-inter)] text-sm tracking-widest uppercase text-[--ink] border-b border-[--ink] pb-0.5 hover:text-[--accent] hover:border-[--accent] transition-colors"
-          >
-            View Full Career →
-          </Link>
-        </div>
-      </section>
     </>
   );
 }
