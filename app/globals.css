@@ -1,26 +1,155 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --ink: #1a1a1a;
+  --ink-muted: #4a4a4a;
+  --ink-faint: #8a8a8a;
+  --paper: #fafaf8;
+  --paper-warm: #f5f3ee;
+  --rule: #d4d0c8;
+  --accent: #8b1a1a;
+  --accent-muted: #c0392b;
 }
 
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-ink: var(--ink);
+  --color-ink-muted: var(--ink-muted);
+  --color-ink-faint: var(--ink-faint);
+  --color-paper: var(--paper);
+  --color-paper-warm: var(--paper-warm);
+  --color-rule: var(--rule);
+  --color-accent: var(--accent);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  background: var(--paper);
+  color: var(--ink);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--paper);
+  color: var(--ink);
+}
+
+::selection {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+/* Editorial rule */
+.rule-top {
+  border-top: 3px solid var(--ink);
+}
+
+.rule-top-thin {
+  border-top: 1px solid var(--rule);
+}
+
+.rule-bottom-thin {
+  border-bottom: 1px solid var(--rule);
+}
+
+/* Drop cap */
+.drop-cap::first-letter {
+  font-size: 4.5rem;
+  line-height: 0.8;
+  float: left;
+  margin-right: 0.1em;
+  margin-top: 0.05em;
+  font-family: var(--font-playfair);
+  font-weight: 700;
+  color: var(--ink);
+}
+
+/* Prose editorial */
+.prose-editorial {
+  font-size: 1.125rem;
+  line-height: 1.85;
+  color: var(--ink);
+}
+
+.prose-editorial p {
+  margin-bottom: 1.5em;
+}
+
+/* Nav link underline animation */
+.nav-link {
+  position: relative;
+  text-decoration: none;
+}
+
+.nav-link::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: 0;
+  width: 0;
+  height: 1px;
+  background: var(--ink);
+  transition: width 0.25s ease;
+}
+
+.nav-link:hover::after {
+  width: 100%;
+}
+
+/* Article card hover */
+.article-card {
+  transition: transform 0.2s ease;
+}
+
+.article-card:hover {
+  transform: translateY(-2px);
+}
+
+/* Timeline connector */
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -1px;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  background: var(--rule);
+}
+
+.timeline-item:first-child::before {
+  top: 1.5rem;
+}
+
+.timeline-item:last-child::before {
+  height: 1.5rem;
+}
+
+/* Fade in animation */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeInUp 0.6s ease forwards;
+}
+
+.animate-fade-in-delay-1 {
+  animation: fadeInUp 0.6s ease 0.15s forwards;
+  opacity: 0;
+}
+
+.animate-fade-in-delay-2 {
+  animation: fadeInUp 0.6s ease 0.3s forwards;
+  opacity: 0;
+}
+
+.animate-fade-in-delay-3 {
+  animation: fadeInUp 0.6s ease 0.45s forwards;
+  opacity: 0;
 }
