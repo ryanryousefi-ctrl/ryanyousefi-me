@@ -139,6 +139,7 @@ export const timeline: TimelineItem[] = [
     company: "Third Time Games / Photo Finish LIVE",
     description:
       "Led content strategy and communications for a Web3 gaming company and its flagship product, Photo Finish LIVE — a blockchain-based horse racing simulation with a passionate global community. Built editorial voice from the ground up and managed communications across product launches, community events, and partnerships.",
+    authorPage: "https://thirdtimegames.com/",
   },
   {
     period: "2025 — 2026",
