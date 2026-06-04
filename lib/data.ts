@@ -151,6 +151,14 @@ export const timeline: TimelineItem[] = [
   },
   {
     period: "2021 — 2022",
+    title: "Contributor",
+    company: "MiamiDolphins.com",
+    description:
+      "Contributed longform storytelling and feature writing directly for the Miami Dolphins, bringing a journalist's eye to the stories behind the players and the franchise — the kind of deeply reported, human-centered pieces that go beyond the box score.",
+    authorPage: "https://www.miamidolphins.com/news/longform/taking-a-breath-of-fresh-air-zach-sieler-s-story",
+  },
+  {
+    period: "2021 — 2022",
     title: "Director of Content",
     company: "Virtual Human Studios",
     description:
