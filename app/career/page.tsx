@@ -61,9 +61,19 @@ export default function Career() {
                 <p className="font-[family-name:var(--font-inter)] text-xs tracking-widest uppercase text-[--accent] mb-4">
                   {item.company}
                 </p>
-                <p className="font-[family-name:var(--font-cormorant)] text-lg text-[--ink-muted] leading-relaxed">
+                <p className="font-[family-name:var(--font-cormorant)] text-lg text-[--ink-muted] leading-relaxed mb-4">
                   {item.description}
                 </p>
+                {item.authorPage && (
+                  <a
+                    href={item.authorPage}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="font-[family-name:var(--font-inter)] text-xs tracking-widest uppercase text-[--ink-faint] hover:text-[--accent] transition-colors"
+                  >
+                    Author Page →
+                  </a>
+                )}
               </div>
             </div>
           ))}

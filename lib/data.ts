@@ -121,6 +121,7 @@ export interface TimelineItem {
   title: string;
   company: string;
   description: string;
+  authorPage?: string;
 }
 
 export const timeline: TimelineItem[] = [
@@ -130,6 +131,7 @@ export const timeline: TimelineItem[] = [
     company: "Sports Illustrated",
     description:
       "Covered professional and college sports for one of the most recognized names in American sports media. Reported on the NFL, NBA, and college athletics while contributing features and analysis to SI's digital platforms.",
+    authorPage: "https://www.si.com/nfl/dolphins/onsi/author/ryan-yousefi",
   },
   {
     period: "2023 — Present",
@@ -158,6 +160,7 @@ export const timeline: TimelineItem[] = [
     company: "Talk Media",
     description:
       "Written thousands of news stories spanning sports, crime, food, culture, and breaking news across Talk Media's network of publications — bringing the same speed, accuracy, and storytelling instincts developed across years of alt-weekly journalism to a high-volume, high-stakes news environment.",
+    authorPage: "https://coralspringstalk.com/author/ryan-yousefi",
   },
   {
     period: "2013 — Present",
@@ -165,6 +168,7 @@ export const timeline: TimelineItem[] = [
     company: "Miami New Times",
     description:
       "Reported on Miami's food, nightlife, arts, and culture scene for South Florida's most-read alternative newspaper. Broke local stories, wrote cover features, and built a readership through both print and digital.",
+    authorPage: "https://www.miaminewtimes.com/author/ryan-yousefi/",
   },
   {
     period: "2020 — 2021",
@@ -172,6 +176,7 @@ export const timeline: TimelineItem[] = [
     company: "Phoenix New Times",
     description:
       "Covered Phoenix's dining, entertainment, and local culture for the Southwest's premier alt-weekly. Developed a beat across food criticism, event coverage, and investigative local reporting.",
+    authorPage: "https://www.phoenixnewtimes.com/author/ryan-yousefi/",
   },
   {
     period: "2016 — 2018",
@@ -186,6 +191,7 @@ export const timeline: TimelineItem[] = [
     company: "UPROXX",
     description:
       "Wrote sports and culture features for UPROXX, one of the web's leading destinations for music, sports, and entertainment journalism. Contributed essays, longform profiles, and cultural analysis.",
+    authorPage: "https://uproxx.com/author/ryan-yousefi/",
   },
 ];
 
