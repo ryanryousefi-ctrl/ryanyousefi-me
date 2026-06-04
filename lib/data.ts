@@ -187,6 +187,7 @@ export const timeline: TimelineItem[] = [
     company: "ESPN Radio — 790 The Ticket Miami",
     description:
       "Contributed sports commentary and analysis to ESPN Radio's 790 The Ticket, Miami's premier sports radio station. Brought the same depth and perspective developed through years of sports writing to a live broadcast format, covering local teams and national storylines for South Florida's most passionate sports audience.",
+    authorPage: "https://www.audacy.com/wqam",
   },
   {
     period: "2014 — 2016",
