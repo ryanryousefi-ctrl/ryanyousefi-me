@@ -78,95 +78,79 @@ export default function About() {
         <div className="md:col-span-9 order-1 md:order-2">
           <div className="prose-editorial max-w-none">
             <p className="drop-cap font-[family-name:var(--font-cormorant)] text-xl leading-loose text-[--ink]">
-              Ryan Yousefi grew up in South Florida — Miami, his hometown — with
-              an encyclopedic knowledge of its sports teams and a habit of
-              putting his opinions into words. For years, that habit lived where
-              most passions do: on the side, something he did because he loved
-              it, while he built a career in the healthcare industry and earned
-              his master&rsquo;s degree in business healthcare management.
+              I grew up in Miami — born and raised in South Florida, where the
+              sports teams are your religion and the humidity is non-negotiable.
+              For a long time, writing about those teams was just something I
+              did because I loved it, a way to stay close to the games while I
+              built a career in the healthcare industry and worked toward my
+              master&rsquo;s degree in business healthcare management.
             </p>
 
             <p className="font-[family-name:var(--font-cormorant)] text-xl leading-loose text-[--ink]">
-              The writing was never supposed to be a job. It started as a way
-              to stay close to the teams he grew up watching, to process the
-              games with the same rigor and care he was applying to everything
-              else in his professional life. But something happened along the
-              way, as it sometimes does when you are genuinely good at
-              something: the hobby became a side gig. The side gig developed an
-              audience. The audience demanded more. And life, as it tends to do
-              when you listen to it, redirected him entirely.
+              I never planned for it to become a profession. That&rsquo;s not
+              how it works, usually. The hobby becomes a side gig. The side gig
+              finds an audience. The audience keeps showing up. And eventually
+              you have to make a decision about what kind of life you actually
+              want to live. I chose the words.
             </p>
 
             <p className="font-[family-name:var(--font-cormorant)] text-xl leading-loose text-[--ink]">
-              By the time storytelling became his full-time occupation, Yousefi
-              had already built the instincts that would define his career —
-              the ability to find the human angle in any story, to write with
-              clarity under deadline, and to understand what an audience actually
-              wants to read. Those instincts took him from South Florida to the
-              pages of the{" "}
-              <em>Miami New Times</em>, where he covered the city&rsquo;s food,
-              nightlife, and culture for the publication that had been the
-              region&rsquo;s journalistic conscience for decades. He wrote cover
-              features. He broke local stories. He developed the kind of
-              readership that doesn&rsquo;t just read your byline — it looks
-              for it.
+              That decision brought me to the{" "}
+              <em>Miami New Times</em> — the publication that has been covering
+              this city&rsquo;s food, nightlife, culture, and chaos since before
+              I was old enough to read it. I&rsquo;ve been contributing there
+              since 2013. I&rsquo;ve written cover features and broken local
+              stories, covered restaurants and crime scenes, nightlife and
+              neighborhood politics. Miami is a complicated, beautiful, maddening
+              city, and I have never gotten tired of writing about it.
             </p>
 
             <p className="font-[family-name:var(--font-cormorant)] text-xl leading-loose text-[--ink]">
-              Through Voice Media Group, Yousefi rose from staff writer to
-              senior editor, overseeing editorial production across multiple
-              markets and mentoring a generation of younger journalists learning
-              the trade. He understood, intuitively, that the business of
-              journalism was changing — that the platforms were shifting, that
-              the economics were brutal, that the readers were still there if
-              you knew how to reach them. He contributed to UPROXX during this
-              period, taking his sports and culture writing to one of the
-              web&rsquo;s most distinctive voices.
+              Along the way I picked up a stint at the{" "}
+              <em>Phoenix New Times</em> — same alt-weekly DNA, different desert
+              energy — and found a long home at Talk Media, where I&rsquo;ve
+              written thousands of news stories spanning sports, crime, food,
+              culture, and breaking news. Through Voice Media Group, I moved
+              from staff writer to senior editor, overseeing editorial across
+              multiple markets. I contributed to UPROXX, bringing sports and
+              culture writing to one of the web&rsquo;s sharpest platforms.
             </p>
 
             <p className="font-[family-name:var(--font-cormorant)] text-xl leading-loose text-[--ink]">
-              Sports Illustrated came next. For millions of American sports
-              fans, that name carries a weight that transcends any individual
-              story — it is synonymous with the best the craft has to offer.
-              Yousefi reported on professional and college sports, contributed
-              features and analysis to SI&rsquo;s digital platforms, and found
-              himself in the middle of one of the great reinventions in sports
-              media history.
+              Sports Illustrated is a name that carries weight — it means
+              something to anyone who grew up with a copy on the coffee table.
+              Getting to contribute there has been one of the genuine honors of
+              my career. I cover professional and college sports, write features
+              and analysis, and try to bring the same curiosity I developed in
+              alt-weekly newsrooms to one of the biggest stages in American
+              sports media.
             </p>
 
             <p className="font-[family-name:var(--font-cormorant)] text-xl leading-loose text-[--ink]">
-              Then he did something unexpected. He went to Vietnam.
+              Then I did something unexpected. I went to Vietnam.
             </p>
 
             <p className="font-[family-name:var(--font-cormorant)] text-xl leading-loose text-[--ink]">
-              The move was not a departure from journalism — it was a natural
-              extension of it. Da Nang had become one of Southeast Asia&rsquo;s
-              most dynamic cities, a hub for the kind of entrepreneurial energy
-              and technological experimentation that was reshaping whole
-              industries. Yousefi joined Third Time Games and its flagship
-              product, Photo Finish LIVE — a blockchain-based horse racing
-              simulation that was doing something genuinely novel: building a
-              passionate, global community around a sport that most people
-              thought was dying.
+              Da Nang turned out to be the right place at the right time. I
+              joined Third Time Games and its flagship product, Photo Finish
+              LIVE — a blockchain-based horse racing simulation with a genuinely
+              passionate global community — as Head of Content and
+              Communications. I built the editorial voice from scratch, hosted
+              workshops at Solana Summer Camp, managed community events, and
+              discovered that the skills I developed in Miami newsrooms
+              translated, with surprising ease, to the frontier of Web3 gaming.
+              Before that I was Director of Content at Virtual Human Studios,
+              one of the original juggernauts in blockchain gaming, where I
+              learned what it means to tell stories for a community that
+              doesn&rsquo;t yet have the vocabulary for what it&rsquo;s building.
             </p>
 
             <p className="font-[family-name:var(--font-cormorant)] text-xl leading-loose text-[--ink]">
-              As Head of Content and Communications, he built the editorial
-              voice of a Web3 company from scratch — applying the same
-              principles he learned at alt-weeklies to an audience that
-              spanned continents and time zones. He hosted workshops at Solana
-              Summer Camp, organized community events, and showed that the
-              skills honed in Miami newsrooms translated, with surprising ease,
-              to the frontier of decentralized technology.
-            </p>
-
-            <p className="font-[family-name:var(--font-cormorant)] text-xl leading-loose text-[--ink]">
-              He splits his time today between Da Nang and South Florida —
-              between a city that is inventing itself and a city that has been
-              reinventing itself for a hundred years. He is still a journalist.
-              He is also, now, a communications strategist, a content leader,
-              and someone who has learned that the best story you can tell is
-              always the true one.
+              I split my time today between Da Nang and South Florida — between
+              a city that is inventing itself and the city that made me. I am
+              still a journalist. I am also a communications strategist, a
+              content leader, and someone who has learned that the best story
+              you can tell is always the true one.
             </p>
 
             <div className="border-l-2 border-[--accent] pl-8 my-12">
@@ -178,9 +162,9 @@ export default function About() {
             </div>
 
             <p className="font-[family-name:var(--font-cormorant)] text-xl leading-loose text-[--ink]">
-              Yousefi is available for editorial consulting, communications
+              I&rsquo;m available for editorial consulting, communications
               strategy, content leadership, and select writing engagements.
-              He&rsquo;s also, occasionally, available for a conversation about
+              I&rsquo;m also, occasionally, available for a conversation about
               horse racing.
             </p>
           </div>

@@ -146,6 +146,13 @@ export const timeline: TimelineItem[] = [
       "Crafted editorial strategy, social media content, and community management for one of the original juggernauts in Web3 gaming. Built and executed content programs that brought the studio's worlds to life across platforms — telling the stories behind the technology and growing a dedicated community of players and believers at the frontier of blockchain gaming.",
   },
   {
+    period: "2021 — Present",
+    title: "Staff Writer",
+    company: "Talk Media",
+    description:
+      "Written thousands of news stories spanning sports, crime, food, culture, and breaking news across Talk Media's network of publications — bringing the same speed, accuracy, and storytelling instincts developed across years of alt-weekly journalism to a high-volume, high-stakes news environment.",
+  },
+  {
     period: "2019 — 2022",
     title: "Senior Editor & Writer",
     company: "Voice Media Group",
@@ -153,14 +160,14 @@ export const timeline: TimelineItem[] = [
       "Served as a senior editor across Voice Media Group's network of alt-weekly publications, overseeing editorial production and contributing long-form journalism, features, and cultural criticism. Managed editorial teams and set standards for coverage across multiple markets.",
   },
   {
-    period: "2017 — 2019",
+    period: "2013 — Present",
     title: "Staff Writer",
     company: "Miami New Times",
     description:
       "Reported on Miami's food, nightlife, arts, and culture scene for South Florida's most-read alternative newspaper. Broke local stories, wrote cover features, and built a readership through both print and digital.",
   },
   {
-    period: "2016 — 2017",
+    period: "2020 — 2021",
     title: "Staff Writer",
     company: "Phoenix New Times",
     description:
