@@ -59,7 +59,7 @@ export default function Contact() {
         {/* Contact form */}
         <div className="md:col-span-7">
           <form
-            action="mailto:ryanyousefi@gmail.com"
+            action="mailto:ryanryousefi@gmail.com"
             method="get"
             encType="text/plain"
             className="space-y-6"
