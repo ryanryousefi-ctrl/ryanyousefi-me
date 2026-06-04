@@ -17,7 +17,7 @@ export default function Career() {
           Career
         </p>
         <h1 className="font-[family-name:var(--font-playfair)] text-4xl md:text-6xl font-bold text-[--ink] leading-tight">
-          A Decade in
+          Over a Decade in
           <br />
           Words & Strategy
         </h1>
