@@ -125,18 +125,18 @@ export interface TimelineItem {
 
 export const timeline: TimelineItem[] = [
   {
+    period: "2026 — Present",
+    title: "Contributor",
+    company: "Sports Illustrated",
+    description:
+      "Covered professional and college sports for one of the most recognized names in American sports media. Reported on the NFL, NBA, and college athletics while contributing features and analysis to SI's digital platforms.",
+  },
+  {
     period: "2023 — Present",
     title: "Head of Content & Communications",
     company: "Third Time Games / Photo Finish LIVE",
     description:
       "Led content strategy and communications for a Web3 gaming company and its flagship product, Photo Finish LIVE — a blockchain-based horse racing simulation with a passionate global community. Built editorial voice from the ground up and managed communications across product launches, community events, and partnerships.",
-  },
-  {
-    period: "2022 — 2023",
-    title: "Staff Writer",
-    company: "Sports Illustrated",
-    description:
-      "Covered professional and college sports for one of the most recognized names in American sports media. Reported on the NFL, NBA, and college athletics while contributing features and analysis to SI's digital platforms.",
   },
   {
     period: "2021 — 2022",
