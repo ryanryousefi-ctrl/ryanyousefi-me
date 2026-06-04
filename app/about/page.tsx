@@ -78,33 +78,38 @@ export default function About() {
         <div className="md:col-span-9 order-1 md:order-2">
           <div className="prose-editorial max-w-none">
             <p className="drop-cap font-[family-name:var(--font-cormorant)] text-xl leading-loose text-[--ink]">
-              Ryan Yousefi has spent more than a decade asking the questions
-              that matter — to the people who matter, in the publications where
-              that matters most. He started where most serious journalists
-              start: at an alt-weekly, on a beat that nobody else wanted, in a
-              city that rewarded the curious and punished the careless.
+              Ryan Yousefi grew up in South Florida — Miami, his hometown — with
+              an encyclopedic knowledge of its sports teams and a habit of
+              putting his opinions into words. For years, that habit lived where
+              most passions do: on the side, something he did because he loved
+              it, while he built a career in the healthcare industry and earned
+              his master&rsquo;s degree in business healthcare management.
             </p>
 
             <p className="font-[family-name:var(--font-cormorant)] text-xl leading-loose text-[--ink]">
-              That city was Phoenix. The publication was the{" "}
-              <em>Phoenix New Times</em>, part of Voice Media Group&rsquo;s
-              storied network of alternative newspapers. It was the kind of
-              place where you learned to report fast and write clean, where the
-              story was never as simple as it looked from the outside, and where
-              a restaurant review could double as a dispatch from the front
-              lines of a neighborhood in transition. He was good at it. He moved
-              to Miami.
+              The writing was never supposed to be a job. It started as a way
+              to stay close to the teams he grew up watching, to process the
+              games with the same rigor and care he was applying to everything
+              else in his professional life. But something happened along the
+              way, as it sometimes does when you are genuinely good at
+              something: the hobby became a side gig. The side gig developed an
+              audience. The audience demanded more. And life, as it tends to do
+              when you listen to it, redirected him entirely.
             </p>
 
             <p className="font-[family-name:var(--font-cormorant)] text-xl leading-loose text-[--ink]">
-              South Florida is a particular kind of place to be a journalist.
-              The <em>Miami New Times</em> had been covering the city&rsquo;s
-              outsized personalities, its corrupt officials, its extraordinary
-              food scene, and its impossible nightlife since 1987. Yousefi fit
-              right in. He wrote cover features. He broke local stories. He
-              developed the kind of readership that doesn&rsquo;t just read
-              your byline — it looks for it. His work at the New Times earned
-              recognition and built the foundation for what came next.
+              By the time storytelling became his full-time occupation, Yousefi
+              had already built the instincts that would define his career —
+              the ability to find the human angle in any story, to write with
+              clarity under deadline, and to understand what an audience actually
+              wants to read. Those instincts took him from South Florida to the
+              pages of the{" "}
+              <em>Miami New Times</em>, where he covered the city&rsquo;s food,
+              nightlife, and culture for the publication that had been the
+              region&rsquo;s journalistic conscience for decades. He wrote cover
+              features. He broke local stories. He developed the kind of
+              readership that doesn&rsquo;t just read your byline — it looks
+              for it.
             </p>
 
             <p className="font-[family-name:var(--font-cormorant)] text-xl leading-loose text-[--ink]">
@@ -166,10 +171,9 @@ export default function About() {
 
             <div className="border-l-2 border-[--accent] pl-8 my-12">
               <p className="font-[family-name:var(--font-playfair)] text-2xl md:text-3xl text-[--ink] italic leading-relaxed">
-                &ldquo;The alt-weekly tradition taught me that the best
-                journalism lives at the intersection of the hyper-local and the
-                universally human. I&rsquo;ve tried to carry that with me
-                everywhere.&rdquo;
+                &ldquo;I didn&rsquo;t plan to become a writer. I just never
+                stopped writing — and eventually the world caught up with what
+                I already knew I was.&rdquo;
               </p>
             </div>
 
