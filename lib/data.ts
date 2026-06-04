@@ -139,6 +139,13 @@ export const timeline: TimelineItem[] = [
       "Covered professional and college sports for one of the most recognized names in American sports media. Reported on the NFL, NBA, and college athletics while contributing features and analysis to SI's digital platforms.",
   },
   {
+    period: "2021 — 2022",
+    title: "Director of Content",
+    company: "Virtual Human Studios",
+    description:
+      "Crafted editorial strategy, social media content, and community management for one of the original juggernauts in Web3 gaming. Built and executed content programs that brought the studio's worlds to life across platforms — telling the stories behind the technology and growing a dedicated community of players and believers at the frontier of blockchain gaming.",
+  },
+  {
     period: "2019 — 2022",
     title: "Senior Editor & Writer",
     company: "Voice Media Group",
