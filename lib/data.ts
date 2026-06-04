@@ -155,6 +155,7 @@ export const timeline: TimelineItem[] = [
     company: "Virtual Human Studios",
     description:
       "Crafted editorial strategy, social media content, and community management for one of the original juggernauts in Web3 gaming. Built and executed content programs that brought the studio's worlds to life across platforms — telling the stories behind the technology and growing a dedicated community of players and believers at the frontier of blockchain gaming.",
+    authorPage: "https://vhslab.com/",
   },
   {
     period: "2021 — Present",
