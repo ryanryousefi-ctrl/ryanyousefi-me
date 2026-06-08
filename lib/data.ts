@@ -28,6 +28,15 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    title: "Taking a Breath of Fresh Air: Zach Sieler's Story",
+    publication: "MiamiDolphins.com",
+    summary:
+      "A longform profile of Dolphins defensive tackle Zach Sieler - from a small Michigan town to the NFL, life in an RV, and co-owning a hunting ranch in Florida. The story of a player who has never let professional football define the whole of who he is.",
+    category: "Sports",
+    href: "https://www.miamidolphins.com/news/longform/taking-a-breath-of-fresh-air-zach-sieler-s-story",
+    year: "2021",
+  },
+  {
     title: "How Dodson Has Embraced the Rookie LBs (Though Still Not Ready to Step Aside)",
     publication: "Sports Illustrated",
     summary:
