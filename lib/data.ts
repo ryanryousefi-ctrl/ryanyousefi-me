@@ -4,8 +4,9 @@ export const publications = [
   { name: "MiamiDolphins.com", short: "MIA" },
   { name: "Bleacher Report", short: "BR" },
   { name: "USA Today", short: "USAT" },
+  { name: "Yahoo! Sports", short: "YS" },
+  { name: "MSN", short: "MSN" },
   { name: "UPROXX", short: "UPROXX" },
-  { name: "Phoenix New Times", short: "PNT" },
   { name: "Talk Media", short: "TM" },
 ];
 

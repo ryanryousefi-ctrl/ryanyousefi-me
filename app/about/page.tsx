@@ -65,13 +65,15 @@ export default function About() {
                   <br />
                   MiamiDolphins.com
                   <br />
-                  Phoenix New Times
-                  <br />
                   UPROXX
                   <br />
                   Bleacher Report
                   <br />
                   USA Today
+                  <br />
+                  Yahoo! Sports
+                  <br />
+                  MSN
                   <br />
                   multiple Talk Media Publications
                 </p>
