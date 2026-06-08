@@ -5,7 +5,7 @@ import { articles, type ArticleCategory } from "@/lib/data";
 export const metadata: Metadata = {
   title: "Selected Work",
   description:
-    "Journalism, sports writing, cultural criticism, and more — selected work from Ryan Yousefi's career across Sports Illustrated, Miami New Times, UPROXX, and beyond.",
+    "Journalism, sports writing, cultural criticism, and more - selected work from Ryan Yousefi's career across Sports Illustrated, Miami New Times, UPROXX, and beyond.",
 };
 
 const categories: ArticleCategory[] = [

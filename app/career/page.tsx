@@ -5,7 +5,7 @@ import { timeline } from "@/lib/data";
 export const metadata: Metadata = {
   title: "Career",
   description:
-    "The career arc of Ryan Yousefi — from alt-weekly reporter to senior editor to communications executive across journalism, sports media, and Web3 gaming.",
+    "The career arc of Ryan Yousefi - from alt-weekly reporter to senior editor to communications executive across journalism, sports media, and Web3 gaming.",
 };
 
 export default function Career() {
@@ -23,7 +23,7 @@ export default function Career() {
         </h1>
         <p className="font-[family-name:var(--font-cormorant)] text-xl text-[--ink-muted] mt-6 leading-relaxed">
           From alt-weekly newsrooms to Sports Illustrated to the frontier of
-          Web3 gaming — the story of a journalist who followed the story.
+          Web3 gaming - the story of a journalist who followed the story.
         </p>
       </div>
 

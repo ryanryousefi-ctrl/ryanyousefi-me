@@ -28,7 +28,7 @@ export const articles: Article[] = [
     title: "How Dodson Has Embraced the Rookie LBs (Though Still Not Ready to Step Aside)",
     publication: "Sports Illustrated",
     summary:
-      "Miami Dolphins linebacker Tyrel Dodson on mentoring the next generation while still competing for his own role — a veteran's grace under pressure.",
+      "Miami Dolphins linebacker Tyrel Dodson on mentoring the next generation while still competing for his own role - a veteran's grace under pressure.",
     category: "Sports",
     href: "https://www.si.com/nfl/dolphins/onsi/how-dodson-has-embraced-the-rookie-lbs-though-still-not-ready-to-step-aside-01kthv940n7j",
     year: "2026",
@@ -81,7 +81,7 @@ export interface TimelineItem {
 
 export const timeline: TimelineItem[] = [
   {
-    period: "2026 — Present",
+    period: "2026 - Present",
     title: "Contributor",
     company: "Sports Illustrated",
     description:
@@ -89,47 +89,47 @@ export const timeline: TimelineItem[] = [
     authorPage: "https://www.si.com/nfl/dolphins/onsi/author/ryan-yousefi",
   },
   {
-    period: "2023 — Present",
+    period: "2023 - Present",
     title: "Head of Content & Communications",
     company: "Third Time Games / Photo Finish LIVE",
     description:
-      "Led content strategy and communications for a Web3 gaming company and its flagship product, Photo Finish LIVE — a blockchain-based horse racing simulation with a passionate global community. Built editorial voice from the ground up and managed communications across product launches, community events, and partnerships.",
+      "Led content strategy and communications for a Web3 gaming company and its flagship product, Photo Finish LIVE - a blockchain-based horse racing simulation with a passionate global community. Built editorial voice from the ground up and managed communications across product launches, community events, and partnerships.",
     authorPage: "https://thirdtimegames.com/",
   },
   {
-    period: "2025 — 2026",
+    period: "2025 - 2026",
     title: "Editor",
     company: "Pro Football Sports Network",
     description:
-      "Led editorial operations for a dedicated professional football media outlet, overseeing coverage, shaping editorial voice, and ensuring the standard of reporting that serious football fans expect — from breaking news to in-depth analysis across the NFL landscape.",
+      "Led editorial operations for a dedicated professional football media outlet, overseeing coverage, shaping editorial voice, and ensuring the standard of reporting that serious football fans expect - from breaking news to in-depth analysis across the NFL landscape.",
     authorPage: "https://www.profootballnetwork.com/",
   },
   {
-    period: "2021 — 2022",
+    period: "2021 - 2022",
     title: "Contributor",
     company: "MiamiDolphins.com",
     description:
-      "Contributed longform storytelling and feature writing directly for the Miami Dolphins, bringing a journalist's eye to the stories behind the players and the franchise — the kind of deeply reported, human-centered pieces that go beyond the box score.",
+      "Contributed longform storytelling and feature writing directly for the Miami Dolphins, bringing a journalist's eye to the stories behind the players and the franchise - the kind of deeply reported, human-centered pieces that go beyond the box score.",
     authorPage: "https://www.miamidolphins.com/news/longform/taking-a-breath-of-fresh-air-zach-sieler-s-story",
   },
   {
-    period: "2021 — 2022",
+    period: "2021 - 2022",
     title: "Director of Content",
     company: "Virtual Human Studios",
     description:
-      "Crafted editorial strategy, social media content, and community management for one of the original juggernauts in Web3 gaming. Built and executed content programs that brought the studio's worlds to life across platforms — telling the stories behind the technology and growing a dedicated community of players and believers at the frontier of blockchain gaming.",
+      "Crafted editorial strategy, social media content, and community management for one of the original juggernauts in Web3 gaming. Built and executed content programs that brought the studio's worlds to life across platforms - telling the stories behind the technology and growing a dedicated community of players and believers at the frontier of blockchain gaming.",
     authorPage: "https://vhslab.com/",
   },
   {
-    period: "2021 — Present",
+    period: "2021 - Present",
     title: "Staff Writer",
     company: "Talk Media",
     description:
-      "Written thousands of news stories spanning sports, crime, food, culture, and breaking news across Talk Media's network of publications — bringing the same speed, accuracy, and storytelling instincts developed across years of alt-weekly journalism to a high-volume, high-stakes news environment.",
+      "Written thousands of news stories spanning sports, crime, food, culture, and breaking news across Talk Media's network of publications - bringing the same speed, accuracy, and storytelling instincts developed across years of alt-weekly journalism to a high-volume, high-stakes news environment.",
     authorPage: "https://coralspringstalk.com/author/ryan-yousefi",
   },
   {
-    period: "2013 — Present",
+    period: "2013 - Present",
     title: "Staff Writer",
     company: "Miami New Times",
     description:
@@ -137,7 +137,7 @@ export const timeline: TimelineItem[] = [
     authorPage: "https://www.miaminewtimes.com/author/ryan-yousefi/",
   },
   {
-    period: "2020 — 2021",
+    period: "2020 - 2021",
     title: "Staff Writer",
     company: "Phoenix New Times",
     description:
@@ -145,15 +145,15 @@ export const timeline: TimelineItem[] = [
     authorPage: "https://www.phoenixnewtimes.com/author/ryan-yousefi/",
   },
   {
-    period: "2016 — 2018",
+    period: "2016 - 2018",
     title: "On-Air Contributor",
-    company: "ESPN Radio — 790 The Ticket Miami",
+    company: "ESPN Radio - 790 The Ticket Miami",
     description:
       "Contributed sports commentary and analysis to ESPN Radio's 790 The Ticket, Miami's premier sports radio station. Brought the same depth and perspective developed through years of sports writing to a live broadcast format, covering local teams and national storylines for South Florida's most passionate sports audience.",
     authorPage: "https://www.audacy.com/wqam",
   },
   {
-    period: "2014 — 2016",
+    period: "2014 - 2016",
     title: "Contributor",
     company: "UPROXX",
     description:

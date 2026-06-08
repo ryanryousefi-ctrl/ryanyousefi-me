@@ -26,7 +26,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   metadataBase: new URL("https://ryanyousefi.me"),
   title: {
-    default: "Ryan Yousefi — Journalist, Editor & Communications Executive",
+    default: "Ryan Yousefi - Journalist, Editor & Communications Executive",
     template: "%s | Ryan Yousefi",
   },
   description:
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: "https://ryanyousefi.me",
     siteName: "Ryan Yousefi",
-    title: "Ryan Yousefi — Journalist, Editor & Communications Executive",
+    title: "Ryan Yousefi - Journalist, Editor & Communications Executive",
     description:
       "Award-winning journalist, editor, and communications executive. Work featured in Sports Illustrated, Miami New Times, UPROXX, and more.",
     images: [
@@ -64,7 +64,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Ryan Yousefi — Journalist, Editor & Communications Executive",
+    title: "Ryan Yousefi - Journalist, Editor & Communications Executive",
     description:
       "Award-winning journalist, editor, and communications executive.",
     images: ["/og-image.jpg"],

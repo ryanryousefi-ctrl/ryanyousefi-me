@@ -78,7 +78,7 @@ export default function About() {
         <div className="md:col-span-9 order-1 md:order-2">
           <div className="prose-editorial max-w-none">
             <p className="drop-cap font-[family-name:var(--font-cormorant)] text-xl leading-loose text-[--ink]">
-              I grew up in Miami — born and raised in South Florida, where the
+              I grew up in Miami - born and raised in South Florida, where the
               sports teams are your religion and the humidity is non-negotiable.
               For a long time, writing about those teams was just something I
               did because I loved it, a way to stay close to the games while I
@@ -96,7 +96,7 @@ export default function About() {
 
             <p className="font-[family-name:var(--font-cormorant)] text-xl leading-loose text-[--ink]">
               That decision brought me to the{" "}
-              <em>Miami New Times</em> — the publication that has been covering
+              <em>Miami New Times</em> - the publication that has been covering
               this city&rsquo;s food, nightlife, culture, and chaos since before
               I was old enough to read it. I&rsquo;ve been contributing there
               since 2013. I&rsquo;ve written cover features and broken local
@@ -107,8 +107,8 @@ export default function About() {
 
             <p className="font-[family-name:var(--font-cormorant)] text-xl leading-loose text-[--ink]">
               Along the way I picked up a stint at the{" "}
-              <em>Phoenix New Times</em> — same alt-weekly DNA, different desert
-              energy — and found a long home at Talk Media, where I&rsquo;ve
+              <em>Phoenix New Times</em> - same alt-weekly DNA, different desert
+              energy - and found a long home at Talk Media, where I&rsquo;ve
               written thousands of news stories spanning sports, crime, food,
               culture, and breaking news. Through Voice Media Group, I moved
               from staff writer to senior editor, overseeing editorial across
@@ -117,7 +117,7 @@ export default function About() {
             </p>
 
             <p className="font-[family-name:var(--font-cormorant)] text-xl leading-loose text-[--ink]">
-              Sports Illustrated is a name that carries weight — it means
+              Sports Illustrated is a name that carries weight - it means
               something to anyone who grew up with a copy on the coffee table.
               Getting to contribute there has been one of the genuine honors of
               my career. I cover professional and college sports, write features
@@ -133,8 +133,8 @@ export default function About() {
             <p className="font-[family-name:var(--font-cormorant)] text-xl leading-loose text-[--ink]">
               Da Nang turned out to be the right place at the right time. I
               joined Third Time Games and its flagship product, Photo Finish
-              LIVE — a blockchain-based horse racing simulation with a genuinely
-              passionate global community — as Head of Content and
+              LIVE - a blockchain-based horse racing simulation with a genuinely
+              passionate global community - as Head of Content and
               Communications. I built the editorial voice from scratch, hosted
               workshops at Solana Summer Camp, managed community events, and
               discovered that the skills I developed in Miami newsrooms
@@ -146,7 +146,7 @@ export default function About() {
             </p>
 
             <p className="font-[family-name:var(--font-cormorant)] text-xl leading-loose text-[--ink]">
-              I split my time today between Da Nang and South Florida — between
+              I split my time today between Da Nang and South Florida - between
               a city that is inventing itself and the city that made me. I am
               still a journalist. I am also a communications strategist, a
               content leader, and someone who has learned that the best story
@@ -156,7 +156,7 @@ export default function About() {
             <div className="border-l-2 border-[--accent] pl-8 my-12">
               <p className="font-[family-name:var(--font-playfair)] text-2xl md:text-3xl text-[--ink] italic leading-relaxed">
                 &ldquo;I didn&rsquo;t plan to become a writer. I just never
-                stopped writing — and eventually the world caught up with what
+                stopped writing - and eventually the world caught up with what
                 I already knew I was.&rdquo;
               </p>
             </div>

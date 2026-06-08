@@ -4,7 +4,7 @@ import Link from "next/link";
 import { publications, articles } from "@/lib/data";
 
 export const metadata: Metadata = {
-  title: "Ryan Yousefi — Journalist, Editor & Communications Executive",
+  title: "Ryan Yousefi - Journalist, Editor & Communications Executive",
   description:
     "Award-winning journalist, editor, and communications executive. Work featured in Sports Illustrated, Miami New Times, UPROXX, and more.",
 };
@@ -131,7 +131,7 @@ export default function Home() {
             My job is to find that person and get out of their way.&rdquo;
           </blockquote>
           <p className="font-[family-name:var(--font-inter)] text-xs tracking-widest uppercase text-[--paper] opacity-50 mt-8">
-            — Ryan Yousefi
+            - Ryan Yousefi
           </p>
         </div>
       </section>

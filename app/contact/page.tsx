@@ -19,7 +19,7 @@ export default function Contact() {
         </h1>
         <p className="font-[family-name:var(--font-cormorant)] text-xl text-[--ink-muted] mt-6 leading-relaxed max-w-xl">
           Whether you&rsquo;re looking for a writer, an editor, a
-          communications strategist, or a speaker — reach out. The best
+          communications strategist, or a speaker - reach out. The best
           conversations start with a simple message.
         </p>
       </div>
@@ -42,7 +42,7 @@ export default function Contact() {
             },
             {
               heading: "Media Inquiries",
-              body: "For press, interviews, and media requests — please include the outlet, topic, and deadline.",
+              body: "For press, interviews, and media requests - please include the outlet, topic, and deadline.",
             },
           ].map(({ heading, body }) => (
             <div key={heading} className="rule-top-thin pt-6">
