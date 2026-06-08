@@ -31,7 +31,8 @@ export default function Home() {
             <p className="font-[family-name:var(--font-cormorant)] text-xl md:text-2xl text-[--ink-muted] leading-relaxed max-w-xl">
               Award-winning journalist, editor, and communications executive
               whose work has appeared in Sports Illustrated, Miami New Times,
-              Phoenix New Times, UPROXX, and Voice Media Group publications.
+              MiamiDolphins.com, Phoenix New Times, UPROXX, and Voice Media
+              Group publications.
             </p>
             <div className="flex flex-wrap gap-4 mt-10">
               <Link

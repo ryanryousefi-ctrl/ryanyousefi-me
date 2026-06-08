@@ -63,6 +63,8 @@ export default function About() {
                   <br />
                   Miami New Times
                   <br />
+                  MiamiDolphins.com
+                  <br />
                   Phoenix New Times
                   <br />
                   UPROXX
