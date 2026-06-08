@@ -69,6 +69,10 @@ export default function About() {
                   <br />
                   UPROXX
                   <br />
+                  Bleacher Report
+                  <br />
+                  USA Today
+                  <br />
                   7 Talk Media Publications
                 </p>
               </div>
