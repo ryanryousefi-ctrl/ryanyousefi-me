@@ -26,11 +26,25 @@ html {
   color: var(--ink);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-weight: 500;
 }
 
 body {
   background: var(--paper);
   color: var(--ink);
+  font-weight: 500;
+}
+
+/* Cormorant body text bolder by default */
+[class*="font-cormorant"],
+.font-cormorant {
+  font-weight: 600;
+}
+
+/* Inter labels medium */
+[class*="font-inter"],
+.font-inter {
+  font-weight: 500;
 }
 
 ::selection {
