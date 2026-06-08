@@ -4,34 +4,34 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: "Writing Philosophy",
   description:
-    "Ryan Yousefi on the craft of storytelling, the discipline of journalism, and why good writing always starts with genuine curiosity.",
+    "Ryan Yousefi on sports storytelling, athlete-first journalism, and what it means to communicate with clarity in a world drowning in content.",
 };
 
 const principles = [
   {
     number: "01",
-    heading: "Start with the person",
-    body: "Every story worth telling has a human being at its center. Not a data point. Not a trend. A person — with contradictions, with history, with something to lose. I learned this at alt-weeklies, where the story was never the thing itself but always the people inside it. A restaurant review was really about a family's first attempt at the American dream. A sports profile was really about what happens to an athlete after the cameras stop rolling. Find the person. Everything else follows.",
+    heading: "The athlete is never just the stats",
+    body: "I grew up watching the Dolphins in a city that lives and breathes its sports teams. What I learned early — and what every good sports story has confirmed — is that the numbers are never the story. The story is always the person carrying them. What drives a linebacker to mentor the rookie who might take his job? What does a second-year running back do differently in the weight room when he knows the whole season is riding on him? That's the story. I write toward that every time.",
   },
   {
     number: "02",
-    heading: "Respect the reader's time",
-    body: "The reader owes you nothing. They have a thousand other things to read, to watch, to do. If you want their attention, you have to earn it in the first sentence, defend it in the first paragraph, and justify it in every line after that. This is not a reason to dumb things down — it is a reason to write with precision, to cut what doesn't earn its place, to say the complicated thing simply without making it simple.",
+    heading: "Context is what separates journalism from content",
+    body: "Anyone can report what happened. The job of a sports journalist is to explain why it matters — to the team, to the city, to the fan who has been showing up for thirty years. When I write about the Dolphins, I'm writing for the person who watched Dan Marino and is now watching their kid grow up with a new quarterback. That context isn't background noise. It's the whole point.",
   },
   {
     number: "03",
-    heading: "Curiosity is non-negotiable",
-    body: "The best journalists I know are pathologically curious. Not just about their beat — about everything. About how things work, why people do what they do, what the numbers mean, what the silence means. I have covered horse racing in the age of blockchain and restaurant criticism in the age of Yelp, and the common thread in both is that you have to actually want to know. Performed curiosity produces bad journalism. Real curiosity produces everything else.",
+    heading: "Access means nothing without trust",
+    body: "The best sports stories I've written came from athletes who chose to be honest because they believed I'd treat them fairly. That trust isn't given — it's earned by showing up consistently, asking real questions, and never burning a source for a headline. I've been covering South Florida sports for over a decade. The relationships I've built in that time are the most valuable thing I have as a reporter.",
   },
   {
     number: "04",
-    heading: "The edit is the work",
-    body: "First drafts are for the writer. Final drafts are for the reader. The gap between those two things is where the real work happens — in the cuts, the restructuring, the word you finally find after the five words you were settling for. I spent years as an editor before I fully understood this, and what I understood was: the edit is not a concession to failure. The edit is the craft.",
+    heading: "Great sports communication moves fans, not just reporters",
+    body: "I've worked on both sides — as the journalist asking the questions and as the communications professional shaping the message. The lesson is the same from both chairs: fans are smart, they're emotionally invested, and they can tell when they're being handled. The best team communications I've been part of treated fans like the stakeholders they are. That's not a PR strategy. That's just respect.",
   },
   {
     number: "05",
-    heading: "Good writing travels",
-    body: "I spent years in alt-weekly journalism, and then I spent time in Web3. The content leadership skills I built in newsrooms translated — to a gaming company's community, to a blockchain project's communications, to a startup's brand voice. The reason is that good writing is not about the subject matter. It is about clarity, empathy, and the discipline of saying what you mean. Those things travel. They always have.",
+    heading: "Every deadline is a story about priorities",
+    body: "Sports journalism runs on deadlines that don't negotiate. A game ends at 11pm and something has to be published by midnight. I've written thousands of news stories in that window — across sports, crime, breaking news — and what I've learned is that speed and quality aren't opposites if you've done the preparation. Know the team. Know the history. Know what matters. Then you can write fast and write well.",
   },
 ];
 
@@ -44,20 +44,22 @@ export default function Writing() {
           Writing Philosophy
         </p>
         <h1 className="font-[family-name:var(--font-playfair)] text-4xl md:text-6xl font-bold text-[--ink] leading-tight">
-          On the Craft
+          On Sports,
+          <br />
+          Storytelling &<br />
+          Communication
         </h1>
         <p className="font-[family-name:var(--font-cormorant)] text-xl text-[--ink-muted] mt-6 leading-relaxed">
-          What I believe about storytelling, journalism, and the responsibility
-          that comes with putting words in front of readers.
+          What I believe about covering athletes, serving fans, and the craft
+          of sports journalism done right.
         </p>
       </div>
 
       {/* Pull quote */}
       <div className="border-l-4 border-[--accent] pl-8 mb-20 max-w-3xl">
         <p className="font-[family-name:var(--font-playfair)] text-2xl md:text-3xl text-[--ink] italic leading-relaxed">
-          &ldquo;A story is a contract between writer and reader. The writer
-          promises to tell the truth. The reader promises to pay attention. If
-          either side breaks that contract, the story fails.&rdquo;
+          &ldquo;The box score tells you who won. The story tells you what it
+          meant. My job has always been the second part.&rdquo;
         </p>
       </div>
 
@@ -85,17 +87,19 @@ export default function Writing() {
       {/* Closing */}
       <div className="rule-top pt-16 mt-8 max-w-3xl">
         <p className="font-[family-name:var(--font-cormorant)] text-xl text-[--ink-muted] leading-relaxed mb-8">
-          These are the principles I have carried from newsrooms to editorial
-          offices to gaming companies in Southeast Asia. They are not rules —
-          rules break when the story demands it. They are orientations: the
-          things I return to when the draft is failing and I need to remember
-          why the writing matters.
+          I started writing about sports because I loved the games. I kept
+          writing because I loved the people inside them — the ones the cameras
+          follow and the ones they don&rsquo;t. That hasn&rsquo;t changed. What
+          has changed is that I now understand how to bring that same commitment
+          to every kind of sports communication, from a breaking news brief to
+          a longform franchise feature to a team&rsquo;s brand voice. The work
+          is different. The standard is the same.
         </p>
         <Link
           href="/work"
           className="font-[family-name:var(--font-inter)] text-sm tracking-widest uppercase text-[--ink] border-b border-[--ink] pb-0.5 hover:text-[--accent] hover:border-[--accent] transition-colors"
         >
-          See the Work →
+          See Recent Work →
         </Link>
       </div>
     </div>
