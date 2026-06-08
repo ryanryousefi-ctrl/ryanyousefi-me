@@ -32,7 +32,7 @@ export default function Home() {
               Award-winning journalist, editor, and communications executive
               whose work has appeared in Sports Illustrated, Miami New Times,
               MiamiDolphins.com, Phoenix New Times, UPROXX, Bleacher Report,
-              USA Today, and 7 Talk Media publications.
+              USA Today, and multiple Talk Media publications.
             </p>
             <div className="flex flex-wrap gap-4 mt-10">
               <Link

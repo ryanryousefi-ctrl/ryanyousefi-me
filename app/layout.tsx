@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     template: "%s | Ryan Yousefi",
   },
   description:
-    "Ryan Yousefi is an award-winning journalist, editor, and communications executive whose work has appeared in Sports Illustrated, Miami New Times, Bleacher Report, USA Today, UPROXX, and 7 Talk Media publications.",
+    "Ryan Yousefi is an award-winning journalist, editor, and communications executive whose work has appeared in Sports Illustrated, Miami New Times, Bleacher Report, USA Today, UPROXX, and multiple Talk Media publications.",
   keywords: [
     "Ryan Yousefi",
     "journalist",
@@ -96,7 +96,7 @@ export default function RootLayout({
     url: "https://ryanyousefi.me",
     jobTitle: "Journalist, Editor & Communications Executive",
     description:
-      "Award-winning journalist, editor, and communications executive with work in Sports Illustrated, Miami New Times, Bleacher Report, USA Today, UPROXX, and 7 Talk Media publications.",
+      "Award-winning journalist, editor, and communications executive with work in Sports Illustrated, Miami New Times, Bleacher Report, USA Today, UPROXX, and multiple Talk Media publications.",
     sameAs: ["https://www.linkedin.com/in/ryan-yousefi/"],
     knowsAbout: [
       "Journalism",

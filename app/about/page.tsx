@@ -73,7 +73,7 @@ export default function About() {
                   <br />
                   USA Today
                   <br />
-                  7 Talk Media Publications
+                  multiple Talk Media Publications
                 </p>
               </div>
             </div>
