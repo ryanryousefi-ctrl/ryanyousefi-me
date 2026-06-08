@@ -25,6 +25,51 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    title: "How Dodson Has Embraced the Rookie LBs (Though Still Not Ready to Step Aside)",
+    publication: "Sports Illustrated",
+    summary:
+      "Miami Dolphins linebacker Tyrel Dodson on mentoring the next generation while still competing for his own role — a veteran's grace under pressure.",
+    category: "Sports",
+    href: "https://www.si.com/nfl/dolphins/onsi/how-dodson-has-embraced-the-rookie-lbs-though-still-not-ready-to-step-aside-01kthv940n7j",
+    year: "2026",
+  },
+  {
+    title: "How Johnson Already Is Showing He's Not a Typical Rookie",
+    publication: "Sports Illustrated",
+    summary:
+      "Cornerback Chris Johnson arrived at minicamp and immediately looked like someone who had already been here. A closer look at what makes him different.",
+    category: "Sports",
+    href: "https://www.si.com/nfl/dolphins/onsi/how-johnson-already-is-showing-he-s-not-a-typical-rookie-01ktf43jrs3q",
+    year: "2026",
+  },
+  {
+    title: "How Gordon Is Setting Himself Up for a Big Second Season",
+    publication: "Sports Illustrated",
+    summary:
+      "Running back Ollie Gordon came in knowing exactly what he needed to fix. His preparation heading into year two suggests he's already done it.",
+    category: "Sports",
+    href: "https://www.si.com/nfl/dolphins/onsi/how-gordon-is-setting-himself-up-for-a-big-second-season-01ktcs2pawz9",
+    year: "2026",
+  },
+  {
+    title: "Why the Dolphins Won't Have the No. 1 Pick in the 2027 Draft",
+    publication: "Sports Illustrated",
+    summary:
+      "An analysis of Miami's draft positioning and why, despite low expectations, the Dolphins aren't headed toward the top of next year's board.",
+    category: "Sports",
+    href: "https://www.si.com/nfl/dolphins/onsi/why-the-dolphins-won-t-have-the-no-1-pick-in-the-2027-draft-01ks5s926sh0",
+    year: "2026",
+  },
+  {
+    title: "10 Reasons To Be Excited About the Dolphins' 2026 Season Despite the Low Expectations",
+    publication: "Sports Illustrated",
+    summary:
+      "The expectations are low. The reasons for optimism aren't. Ten arguments for why Miami's new era under GM Jon-Eric Sullivan and head coach Jeff Hafley deserves more credit than it's getting.",
+    category: "Sports",
+    href: "https://www.si.com/nfl/dolphins/onsi/10-reasons-to-be-excited-about-the-dolphins-2026-season-despite-the-low-expectations-01krnxrs1qbp",
+    year: "2026",
+  },
+  {
     title: "The Business of Horse Racing in the Digital Age",
     publication: "Photo Finish LIVE",
     summary:

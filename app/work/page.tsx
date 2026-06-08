@@ -25,9 +25,9 @@ export default function Work() {
           Selected Work
         </p>
         <h1 className="font-[family-name:var(--font-playfair)] text-4xl md:text-6xl font-bold text-[--ink] leading-tight">
-          Stories Worth
+          Recent
           <br />
-          Telling
+          Work
         </h1>
         <p className="font-[family-name:var(--font-cormorant)] text-xl text-[--ink-muted] mt-6 leading-relaxed">
           A selection of journalism, features, and criticism spanning sports,

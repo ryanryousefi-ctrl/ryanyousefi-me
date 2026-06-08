@@ -17,7 +17,7 @@ export default function Footer() {
           <nav className="flex flex-wrap gap-x-8 gap-y-3">
             {[
               { href: "/about", label: "About" },
-              { href: "/work", label: "Work" },
+              { href: "/work", label: "Recent Work" },
               { href: "/career", label: "Career" },
               { href: "/writing", label: "Writing" },
               { href: "/contact", label: "Contact" },

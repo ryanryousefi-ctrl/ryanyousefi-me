@@ -38,7 +38,7 @@ export default function Home() {
                 href="/work"
                 className="inline-flex items-center gap-2 bg-[--ink] text-[--paper] font-[family-name:var(--font-inter)] text-sm tracking-widest uppercase px-7 py-3.5 hover:bg-[--accent] transition-colors"
               >
-                Selected Work
+                Recent Work
               </Link>
               <Link
                 href="/about"
@@ -93,7 +93,7 @@ export default function Home() {
             href="/work"
             className="font-[family-name:var(--font-inter)] text-xs tracking-widest uppercase text-[--ink-faint] hover:text-[--ink] transition-colors"
           >
-            All Work →
+            All Recent Work →
           </Link>
         </div>
 
