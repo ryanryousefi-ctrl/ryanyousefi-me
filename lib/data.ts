@@ -28,6 +28,15 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    title: "Coral Springs' Most Expensive Home Hits Market for $15M",
+    publication: "Talk Media",
+    summary:
+      "A 19,054-square-foot estate in the gated Eagle Trace community has listed for $15 million, potentially attracting high-profile buyers like NBA star Giannis Antetokounmpo, who is rumored to be house hunting in South Florida.",
+    category: "Local News",
+    href: "https://coralspringstalk.com/coral-springs-most-expensive-home-59884",
+    year: "2026",
+  },
+  {
     title: "Taking a Breath of Fresh Air: Zach Sieler's Story",
     publication: "MiamiDolphins.com",
     summary:
