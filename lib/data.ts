@@ -1,10 +1,12 @@
 export const publications = [
   { name: "Sports Illustrated", short: "SI" },
   { name: "Miami New Times", short: "MNT" },
-  { name: "Phoenix New Times", short: "PNT" },
+  { name: "MiamiDolphins.com", short: "MIA" },
+  { name: "Bleacher Report", short: "BR" },
+  { name: "USA Today", short: "USAT" },
   { name: "UPROXX", short: "UPROXX" },
-  { name: "Voice Media Group", short: "VMG" },
-  { name: "Photo Finish LIVE", short: "PFL" },
+  { name: "Phoenix New Times", short: "PNT" },
+  { name: "Talk Media", short: "TM" },
 ];
 
 export type ArticleCategory =
