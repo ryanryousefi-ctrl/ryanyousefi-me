@@ -10,28 +10,28 @@ export const metadata: Metadata = {
 const principles = [
   {
     number: "01",
-    heading: "The athlete is never just the stats",
-    body: "I grew up watching the Dolphins in a city that lives and breathes its sports teams. What I learned early - and what every good sports story has confirmed - is that the numbers are never the story. The story is always the person carrying them. What drives a linebacker to mentor the rookie who might take his job? What does a second-year running back do differently in the weight room when he knows the whole season is riding on him? That's the story. I write toward that every time.",
+    heading: "Sports are the toy department of life",
+    body: "Dan LeBatard, the longtime Miami Herald columnist and sports radio pioneer, has a line he comes back to often: sports are the toy department of life. I've carried that with me through every press box, every locker room, every deadline. Sports exist to entertain us. They're not foreign policy. They're not the cure for cancer. They're the thing that makes a city hold its breath together, that gives a kid a reason to stay up past bedtime, that connects generations of families around something that doesn't require any explanation. That's not a small thing. But it does mean the tone should match the stakes, and the stakes are meant to be fun.",
   },
   {
     number: "02",
-    heading: "Context is what separates journalism from content",
-    body: "Anyone can report what happened. The job of a sports journalist is to explain why it matters - to the team, to the city, to the fan who has been showing up for thirty years. When I write about the Dolphins, I'm writing for the person who watched Dan Marino and is now watching their kid grow up with a new quarterback. That context isn't background noise. It's the whole point.",
+    heading: "Playful doesn't mean shallow",
+    body: "I've written thousands of articles for the Miami New Times, where sports coverage lives alongside nightlife, crime, food, and the general beautiful chaos of South Florida. One of those stories broke the news that Hard Rock Stadium, home of the Miami Dolphins, is built on a Native American burial ground. Yes, really. That story was serious. It was also, in the way only Miami can produce, completely absurd. You can hold both things at once. The best sports writing always does.",
   },
   {
     number: "03",
-    heading: "Access means nothing without trust",
-    body: "The best sports stories I've written came from athletes who chose to be honest because they believed I'd treat them fairly. That trust isn't given - it's earned by showing up consistently, asking real questions, and never burning a source for a headline. I've been covering South Florida sports for over a decade. The relationships I've built in that time are the most valuable thing I have as a reporter.",
+    heading: "Informative and entertaining are not opposites",
+    body: "When I write for Sports Illustrated, I'm covering real angles with real stakes - roster decisions, player development, franchise direction. But I've never believed that serious subjects require a serious face. A piece about why the Dolphins won't hold the No. 1 pick in the 2027 draft can be analytically rigorous and still wink at the reader. Sports fans are smart. They follow advanced metrics and fantasy waiver wires and three-team trade proposals. They can handle nuance. They just don't want to be bored while they absorb it.",
   },
   {
     number: "04",
-    heading: "Great sports communication moves fans, not just reporters",
-    body: "I've worked on both sides - as the journalist asking the questions and as the communications professional shaping the message. The lesson is the same from both chairs: fans are smart, they're emotionally invested, and they can tell when they're being handled. The best team communications I've been part of treated fans like the stakeholders they are. That's not a PR strategy. That's just respect.",
+    heading: "The athlete is never just the stats",
+    body: "Numbers tell you what happened. People tell you why it matters. I've built my career on finding the person behind the performance, whether that's a linebacker mentoring the rookie who might take his job, or a second-year running back quietly reinventing his offseason routine. Those stories require access, and access requires trust, and trust is earned by showing up consistently and treating athletes like human beings rather than content opportunities. I've been in this market for over a decade. The relationships are the job.",
   },
   {
     number: "05",
     heading: "Every deadline is a story about priorities",
-    body: "Sports journalism runs on deadlines that don't negotiate. A game ends at 11pm and something has to be published by midnight. I've written thousands of news stories in that window - across sports, crime, breaking news - and what I've learned is that speed and quality aren't opposites if you've done the preparation. Know the team. Know the history. Know what matters. Then you can write fast and write well.",
+    body: "Sports journalism runs on deadlines that don't negotiate. A game ends at 11pm and something has to be published by midnight. I've filed thousands of stories in that window and what I've learned is that speed and quality aren't opposites if you've done the preparation. Know the team. Know the history. Know what matters. And know, always, that the person reading it has a choice about how to spend their time. Make it worth their while. Keep it a little fun. That's the job.",
   },
 ];
 
@@ -58,8 +58,9 @@ export default function Writing() {
       {/* Pull quote */}
       <div className="border-l-4 border-[--accent] pl-8 mb-20 max-w-3xl">
         <p className="font-[family-name:var(--font-playfair)] text-2xl md:text-3xl text-[--ink] italic leading-relaxed">
-          &ldquo;The box score tells you who won. The story tells you what it
-          meant. My job has always been the second part.&rdquo;
+          &ldquo;Sports are the toy department of life. Which means covering them
+          well requires the same thing playing with toys does: take it seriously,
+          but never forget it&rsquo;s supposed to be fun.&rdquo;
         </p>
       </div>
 
@@ -87,13 +88,14 @@ export default function Writing() {
       {/* Closing */}
       <div className="rule-top pt-16 mt-8 max-w-3xl">
         <p className="font-[family-name:var(--font-cormorant)] text-xl text-[--ink-muted] leading-relaxed mb-8">
-          I started writing about sports because I loved the games. I kept
-          writing because I loved the people inside them - the ones the cameras
-          follow and the ones they don&rsquo;t. That hasn&rsquo;t changed. What
-          has changed is that I now understand how to bring that same commitment
-          to every kind of sports communication, from a breaking news brief to
-          a longform franchise feature to a team&rsquo;s brand voice. The work
-          is different. The standard is the same.
+          I staked my niche on covering sports with personality. From breaking
+          the story that Hard Rock Stadium sits on a Native American burial
+          ground in the pages of the Miami New Times, to writing Dolphins
+          features for Sports Illustrated with one eyebrow raised and both eyes
+          open - the through line has always been the same. Be accurate. Be
+          fair. Make it worth reading. And for the love of everything, don&rsquo;t
+          make it boring. Dan LeBatard was right. This is the toy department.
+          Act like it.
         </p>
         <Link
           href="/work"
