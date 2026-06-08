@@ -1,37 +1,4 @@
-import type { Metadata } from "next";
-import { Playfair_Display, Cormorant_Garamond, Inter } from "next/font/google";
-import "./globals.css";
-import Nav from "@/components/Nav";
-import Footer from "@/components/Footer";
-
-const playfair = Playfair_Display({
-  subsets: ["latin"],
-  variable: "--font-playfair",
-  display: "swap",
-});
-
-const cormorant = Cormorant_Garamond({
-  subsets: ["latin"],
-  variable: "--font-cormorant",
-  weight: ["300", "400", "500", "600", "700"],
-  display: "swap",
-});
-
-const inter = Inter({
-  subsets: ["latin"],
-  variable: "--font-inter",
-  display: "swap",
-});
-
-export const metadata: Metadata = {
-  metadataBase: new URL("https://ryanyousefi.me"),
-  title: {
-    default: "Ryan Yousefi - Journalist, Editor & Communications Executive",
-    template: "%s | Ryan Yousefi",
-  },
-  description:
-    "Ryan Yousefi is an award-winning journalist, editor, and communications executive whose work has appeared in Sports Illustrated, Miami New Times, Phoenix New Times, UPROXX, and beyond.",
-  keywords: [
+.  keywords: [
     "Ryan Yousefi",
     "journalist",
     "editor",
@@ -40,7 +7,7 @@ export const metadata: Metadata = {
     "Miami New Times",
     "Sports Illustrated",
     "UPROXX",
-    "Voice Media Group",
+    "Talk Media",
     "content strategy",
   ],
   authors: [{ name: "Ryan Yousefi", url: "https://ryanyousefi.me" }],
@@ -94,7 +61,7 @@ export default function RootLayout({
     url: "https://ryanyousefi.me",
     jobTitle: "Journalist, Editor & Communications Executive",
     description:
-      "Award-winning journalist, editor, and communications executive with work in Sports Illustrated, Miami New Times, UPROXX, and Voice Media Group.",
+      "Award-winning journalist, editor, and communications executive with work in Sports Illustrated, Miami New Times, UPROXX, and 7 Talk Media publications.",
     sameAs: ["https://www.linkedin.com/in/ryan-yousefi/"],
     knowsAbout: [
       "Journalism",

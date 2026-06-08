@@ -69,7 +69,7 @@ export default function About() {
                   <br />
                   UPROXX
                   <br />
-                  Voice Media Group
+                  7 Talk Media Publications
                 </p>
               </div>
             </div>
