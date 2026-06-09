@@ -28,6 +28,15 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    title: "How Brewer Keeps Doing His Part While Waiting Out a Complicated Contract Situation",
+    publication: "Sports Illustrated",
+    summary:
+      "Dolphins center Aaron Brewer, coming off a second-team All-Pro season, is navigating contract negotiations with quiet professionalism - focused on raising his game rather than raising his voice.",
+    category: "Sports",
+    href: "https://www.si.com/nfl/dolphins/onsi/how-brewer-keeps-doing-his-part-while-waiting-out-a-complicated-contract-situation-01ktkzv8ffdq",
+    year: "2026",
+  },
+  {
     title: "Coral Springs' Most Expensive Home Hits Market for $15M",
     publication: "Talk Media",
     summary:
