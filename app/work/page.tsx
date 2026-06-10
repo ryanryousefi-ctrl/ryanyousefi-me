@@ -23,6 +23,7 @@ const publicationColors: Record<string, string> = {
   "Talk Media": "bg-[#1a1a1a] text-white",
   "Miami New Times": "bg-[#e63b2e] text-white",
   "UPROXX": "bg-[#000] text-white",
+  "Yahoo! Sports": "bg-[#6001D2] text-white",
   "Bleacher Report": "bg-[#f47321] text-white",
   "USA Today": "bg-[#009bff] text-white",
 };
