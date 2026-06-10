@@ -36,7 +36,7 @@ export const articles: Article[] = [
     category: "Sports",
     href: "https://www.si.com/nfl/dolphins/onsi/how-brewer-keeps-doing-his-part-while-waiting-out-a-complicated-contract-situation-01ktkzv8ffdq",
     year: "2026",
-    image: "https://images.unsplash.com/photo-1508098682722-e99c43a406b2?w=800&q=80",
+    image: "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_6000,h_3375/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_dolphins/01ktp894q26fy55xrq1b.jpg",
   },
   {
     title: "Coral Springs' Most Expensive Home Hits Market for $15M",
@@ -46,7 +46,6 @@ export const articles: Article[] = [
     category: "Local News",
     href: "https://coralspringstalk.com/coral-springs-most-expensive-home-59884",
     year: "2026",
-    image: "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
   },
   {
     title: "Taking a Breath of Fresh Air: Zach Sieler's Story",
@@ -56,7 +55,7 @@ export const articles: Article[] = [
     category: "Sports",
     href: "https://www.miamidolphins.com/news/longform/taking-a-breath-of-fresh-air-zach-sieler-s-story",
     year: "2021",
-    image: "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?w=800&q=80",
+    image: "https://static.clubs.nfl.com/image/private/t_editorial_landscape_mobile/t_lazy/f_auto/dolphins/b0itqvo8e8cfpjomhwld.jpg",
   },
   {
     title: "How Dodson Has Embraced the Rookie LBs (Though Still Not Ready to Step Aside)",
@@ -66,7 +65,7 @@ export const articles: Article[] = [
     category: "Sports",
     href: "https://www.si.com/nfl/dolphins/onsi/how-dodson-has-embraced-the-rookie-lbs-though-still-not-ready-to-step-aside-01kthv940n7j",
     year: "2026",
-    image: "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800&q=80",
+    image: "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_6000,h_3375/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_dolphins/01kthw9xq27ywtkr516n.jpg",
   },
   {
     title: "How Johnson Already Is Showing He's Not a Typical Rookie",
@@ -76,7 +75,7 @@ export const articles: Article[] = [
     category: "Sports",
     href: "https://www.si.com/nfl/dolphins/onsi/how-johnson-already-is-showing-he-s-not-a-typical-rookie-01ktf43jrs3q",
     year: "2026",
-    image: "https://images.unsplash.com/photo-1612872087720-bb876e2e67d1?w=800&q=80",
+    image: "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_5688,h_3199/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_dolphins/01ktf4t38n9kfyt7cvrs.jpg",
   },
   {
     title: "How Gordon Is Setting Himself Up for a Big Second Season",
@@ -86,7 +85,7 @@ export const articles: Article[] = [
     category: "Sports",
     href: "https://www.si.com/nfl/dolphins/onsi/how-gordon-is-setting-himself-up-for-a-big-second-season-01ktcs2pawz9",
     year: "2026",
-    image: "https://images.unsplash.com/photo-1551958219-acbc595b8cc4?w=800&q=80",
+    image: "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_594,w_4032,h_2268/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/all_dolphins/01ktcspkzdhzapkkctdx.jpg",
   },
   {
     title: "Why the Dolphins Won't Have the No. 1 Pick in the 2027 Draft",
@@ -96,7 +95,7 @@ export const articles: Article[] = [
     category: "Sports",
     href: "https://www.si.com/nfl/dolphins/onsi/why-the-dolphins-won-t-have-the-no-1-pick-in-the-2027-draft-01ks5s926sh0",
     year: "2026",
-    image: "https://images.unsplash.com/photo-1560272564-c83b66b1ad12?w=800&q=80",
+    image: "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_203,w_4500,h_2531/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/all_dolphins/01kmdwzje91tkce962m1.jpg",
   },
   {
     title: "10 Reasons To Be Excited About the Dolphins' 2026 Season Despite the Low Expectations",
@@ -106,7 +105,7 @@ export const articles: Article[] = [
     category: "Sports",
     href: "https://www.si.com/nfl/dolphins/onsi/10-reasons-to-be-excited-about-the-dolphins-2026-season-despite-the-low-expectations-01krnxrs1qbp",
     year: "2026",
-    image: "https://images.unsplash.com/photo-1519766304817-4f37bda74a26?w=800&q=80",
+    image: "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_431,w_4032,h_2268/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/all_dolphins/01kq4y62esyvtxpewevz.jpg",
   },
 ];
 
