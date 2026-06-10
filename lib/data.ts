@@ -46,6 +46,7 @@ export const articles: Article[] = [
     category: "Local News",
     href: "https://coralspringstalk.com/coral-springs-most-expensive-home-59884",
     year: "2026",
+    image: "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
   },
   {
     title: "Taking a Breath of Fresh Air: Zach Sieler's Story",
@@ -55,7 +56,7 @@ export const articles: Article[] = [
     category: "Sports",
     href: "https://www.miamidolphins.com/news/longform/taking-a-breath-of-fresh-air-zach-sieler-s-story",
     year: "2021",
-    image: "https://static.clubs.nfl.com/image/private/t_editorial_landscape_mobile/t_lazy/f_auto/dolphins/b0itqvo8e8cfpjomhwld.jpg",
+    image: "https://images.unsplash.com/photo-1566577739112-5180d4bf9390?w=800&q=80",
   },
   {
     title: "How Dodson Has Embraced the Rookie LBs (Though Still Not Ready to Step Aside)",
