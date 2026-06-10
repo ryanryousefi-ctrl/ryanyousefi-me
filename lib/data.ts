@@ -60,11 +60,11 @@ export const articles: Article[] = [
   },
   {
     title: "How Dodson Has Embraced the Rookie LBs (Though Still Not Ready to Step Aside)",
-    publication: "Sports Illustrated",
+    publication: "Yahoo! Sports",
     summary:
       "Miami Dolphins linebacker Tyrel Dodson on mentoring the next generation while still competing for his own role - a veteran's grace under pressure.",
     category: "Sports",
-    href: "https://www.si.com/nfl/dolphins/onsi/how-dodson-has-embraced-the-rookie-lbs-though-still-not-ready-to-step-aside-01kthv940n7j",
+    href: "https://sports.yahoo.com/articles/dodson-embraced-rookie-lbs-though-202927663.html",
     year: "2026",
     image: "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_6000,h_3375/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_dolphins/01kthw9xq27ywtkr516n.jpg",
   },
