@@ -39,6 +39,26 @@ export const articles: Article[] = [
     image: "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_6000,h_3375/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_dolphins/01ktp894q26fy55xrq1b.jpg",
   },
   {
+    title: "Coral Springs Man Accused of Sexually Abusing Teenage Victim Over Multiple Years",
+    publication: "Talk Media",
+    summary:
+      "A Coral Springs man faces serious charges after allegations of repeated sexual abuse of a teenage victim spanning multiple years.",
+    category: "Local News",
+    href: "https://coralspringstalk.com/coral-springs-sexual-assault-59913",
+    year: "2026",
+    image: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&q=80",
+  },
+  {
+    title: "Pleasure Caribbean Cuisine Opens with Haitian Comfort Food and Early Rave Reviews",
+    publication: "Talk Media",
+    summary:
+      "A new Coral Springs restaurant is winning over the neighborhood with Haitian comfort food, warm hospitality, and the kind of early buzz that suggests something special is happening.",
+    category: "Local News",
+    href: "https://coralspringstalk.com/pleasure-caribbean-cuisine-coral-springs-59903",
+    year: "2026",
+    image: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=800&q=80",
+  },
+  {
     title: "Coral Springs' Most Expensive Home Hits Market for $15M",
     publication: "Talk Media",
     summary:
@@ -47,6 +67,46 @@ export const articles: Article[] = [
     href: "https://coralspringstalk.com/coral-springs-most-expensive-home-59884",
     year: "2026",
     image: "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&q=80",
+  },
+  {
+    title: "Red Lobster Dispute Sparks Parking Lot Brawl, Police Station Chase in Coral Springs",
+    publication: "Talk Media",
+    summary:
+      "What started as a dispute at a Red Lobster ended with a parking lot brawl and a high-speed chase straight to a police station. Only in South Florida.",
+    category: "Local News",
+    href: "https://coralspringstalk.com/chilis-parking-lot-fight-red-lobster-job-high-speed-race-police-station-both-arrested-59845",
+    year: "2026",
+    image: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=800&q=80",
+  },
+  {
+    title: "Coral Springs Medical Worker Arrested in Alleged Patient Credit Card Theft",
+    publication: "Talk Media",
+    summary:
+      "A medical worker at a Coral Springs facility was arrested after allegedly stealing a credit card from an elderly patient in the emergency room.",
+    category: "Local News",
+    href: "https://coralspringstalk.com/former-northwest-medical-center-er-nurse-accused-stealing-elderly-patient-credit-card-59799",
+    year: "2026",
+    image: "https://images.unsplash.com/photo-1587351021759-3e566b6af7cc?w=800&q=80",
+  },
+  {
+    title: "Long Island Bagel Cafe Bringing NYC-Style Bagels to Coral Springs",
+    publication: "Talk Media",
+    summary:
+      "A new bagel shop is making the case that you don't need to fly to New York for a proper bagel — just drive to Coral Springs.",
+    category: "Local News",
+    href: "https://coralspringstalk.com/long-island-bagel-cafe-coral-springs-59724",
+    year: "2026",
+    image: "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&q=80",
+  },
+  {
+    title: "Coral Springs Payroll Manager Accused of Stealing $1.5 Million From Miami Doctor's Office",
+    publication: "Talk Media",
+    summary:
+      "A payroll manager from Coral Springs is accused of embezzling $1.5 million from a Miami medical practice over an extended period.",
+    category: "Local News",
+    href: "https://coralspringstalk.com/coral-springs-payroll-manager-accused-stealing-1-5-million-miami-doctors-office-59709",
+    year: "2026",
+    image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
   },
   {
     title: "Taking a Breath of Fresh Air: Zach Sieler's Story",
