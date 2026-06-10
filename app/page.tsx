@@ -101,26 +101,38 @@ export default function Home() {
 
         <div className="grid md:grid-cols-3 gap-px bg-[--rule]">
           {featured.map((article) => (
-            <article
+            <a
               key={article.title}
-              className="article-card bg-[--paper] p-8 flex flex-col gap-4"
+              href={article.href}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="article-card bg-[--paper] flex flex-col group"
             >
-              <p className="font-[family-name:var(--font-inter)] text-xs tracking-widest uppercase text-[--accent]">
-                {article.publication}
-              </p>
-              <h3 className="font-[family-name:var(--font-playfair)] text-xl font-bold text-[--ink] leading-snug">
-                {article.title}
-              </h3>
-              <p className="font-[family-name:var(--font-cormorant)] text-base text-[--ink-muted] leading-relaxed flex-1">
-                {article.summary}
-              </p>
-              <Link
-                href={article.href}
-                className="font-[family-name:var(--font-inter)] text-xs tracking-widest uppercase text-[--ink-faint] hover:text-[--accent] transition-colors mt-auto"
-              >
-                Read →
-              </Link>
-            </article>
+              {article.image && (
+                <div className="relative aspect-[16/9] overflow-hidden bg-[--paper-warm]">
+                  <Image
+                    src={article.image}
+                    alt={article.title}
+                    fill
+                    className="object-cover group-hover:scale-[1.02] transition-transform duration-500"
+                  />
+                </div>
+              )}
+              <div className="p-8 flex flex-col gap-3 flex-1">
+                <p className="font-[family-name:var(--font-inter)] text-xs tracking-widest uppercase text-[--accent]">
+                  {article.publication}
+                </p>
+                <h3 className="font-[family-name:var(--font-playfair)] text-xl font-bold text-[--ink] leading-snug group-hover:text-[--accent] transition-colors">
+                  {article.title}
+                </h3>
+                <p className="font-[family-name:var(--font-cormorant)] text-base text-[--ink-muted] leading-relaxed flex-1">
+                  {article.summary}
+                </p>
+                <span className="font-[family-name:var(--font-inter)] text-xs tracking-widest uppercase text-[--ink-faint] group-hover:text-[--accent] transition-colors mt-auto">
+                  Read →
+                </span>
+              </div>
+            </a>
           ))}
         </div>
       </section>
