@@ -39,16 +39,6 @@ export const articles: Article[] = [
     image: "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_6000,h_3375/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/ImagnImages/mmsport/all_dolphins/01ktp894q26fy55xrq1b.jpg",
   },
   {
-    title: "Coral Springs Man Accused of Sexually Abusing Teenage Victim Over Multiple Years",
-    publication: "Talk Media",
-    summary:
-      "A Coral Springs man faces serious charges after allegations of repeated sexual abuse of a teenage victim spanning multiple years.",
-    category: "Local News",
-    href: "https://coralspringstalk.com/coral-springs-sexual-assault-59913",
-    year: "2026",
-    image: "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800&q=80",
-  },
-  {
     title: "Pleasure Caribbean Cuisine Opens with Haitian Comfort Food and Early Rave Reviews",
     publication: "Talk Media",
     summary:
