@@ -29,6 +29,16 @@ export interface Article {
 
 export const articles: Article[] = [
   {
+    title: "Welcome to Miami, Giannis: A Greek's Guide to South Florida",
+    publication: "Miami New Times",
+    summary:
+      "Following Giannis Antetokounmpo's blockbuster trade to the Miami Heat, a guide to the Greek restaurants, Orthodox churches, community organizations, and cultural touchstones across South Florida that might make the two-time MVP feel at home.",
+    category: "Journalism",
+    href: "https://www.miaminewtimes.com/news/welcome-to-miami-giannis-a-greeks-guide-to-south-florida-40573534/",
+    year: "2026",
+    image: "https://images.unsplash.com/photo-1533106418989-88406c7cc8ca?w=800&q=80",
+  },
+  {
     title: "How Brewer Keeps Doing His Part While Waiting Out a Complicated Contract Situation",
     publication: "Sports Illustrated",
     summary:
